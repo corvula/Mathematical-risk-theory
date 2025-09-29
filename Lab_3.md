@@ -31,7 +31,7 @@ print("Risk Premium (премія за ризик) = \(String(format: "%.2f", rp
 
 <img width="377" height="116" alt="Знімок екрана 2025-09-29 о 12 21 06 пп" src="https://github.com/user-attachments/assets/bb3849d4-4942-45b7-80c0-a4876a56fd5c" />
 
-##  Економічна суть премію за ризиків 
+##  Економічна суть премія за ризиків 
 
 
 <img width="586" height="211" alt="Знімок екрана 2025-09-29 о 12 21 51 пп" src="https://github.com/user-attachments/assets/ce2613b4-d8ac-49dc-8e46-151a75fe250f" />
