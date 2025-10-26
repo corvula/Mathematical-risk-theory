@@ -1,6 +1,7 @@
-## Laba 3 
+## Laba 4 
 <img width="433" height="98" alt="Знімок екрана 2025-10-26 о 3 37 01 пп" src="https://github.com/user-attachments/assets/47a3afc8-c04a-4ccb-9dad-e18d5e3791b1" />
-``` swift
+
+```
 import Foundation
 
 let E: [Double] = [0.6, 0.5, 0.4, 0.7]
