@@ -1,6 +1,7 @@
 ## Лабораторна робота 6 
 
 Завданна 5:
+
 Умова: 
 <img width="573" height="559" alt="Знімок екрана 2025-12-01 о 3 48 57 пп" src="https://github.com/user-attachments/assets/11a3b82a-725b-45da-8379-d4c3e4425b46" />
 
