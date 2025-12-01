@@ -2,7 +2,6 @@
 
 Завданна 5:
 
-Умова: 
 <img width="573" height="559" alt="Знімок екрана 2025-12-01 о 3 48 57 пп" src="https://github.com/user-attachments/assets/11a3b82a-725b-45da-8379-d4c3e4425b46" />
 
 <img width="579" height="86" alt="Знімок екрана 2025-12-01 о 3 49 01 пп" src="https://github.com/user-attachments/assets/a901e131-c9f7-488d-9a89-6fa170755bf1" />
